@@ -1,0 +1,1 @@
+HerdMate v1.0 - Core structure and sample data in place.

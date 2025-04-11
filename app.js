@@ -1,0 +1,1 @@
+// JavaScript logic placeholder — real logic wiring in progress
