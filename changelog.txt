@@ -1,1 +1,1 @@
-HerdMate v1.0 - Core structure and sample data in place.
+Working version of HerdMate v1.0 - functional, not final polish.

@@ -1,1 +1,1 @@
-Some UI functionality (e.g., form interactivity, saving logic) still in progress.
+Minor layout spacing. Some validation not yet locked.

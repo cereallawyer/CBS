@@ -1,1 +1,1 @@
-const sampleAnimals = [{ name: 'Daisy', sire: 'Titan', dam: 'Buttercup', earTag: '001', weight: 34 }];
+const sampleAnimals = [{ name: 'Daisy', sire: 'Titan', dam: 'Buttercup', earTag: '001' }];

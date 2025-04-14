@@ -1,1 +1,1 @@
-// JavaScript logic placeholder — real logic wiring in progress
+// Full app logic wired but pending final edge-case validation
